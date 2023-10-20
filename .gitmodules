@@ -1,0 +1,6 @@
+[submodule "_lib/flipKey"]
+	path = _lib/flipKey
+	url = git@github.com:mirage335/flipKey.git
+[submodule "_lib/scriptedIllustrator"]
+	path = _lib/scriptedIllustrator
+	url = git@github.com:mirage335/scriptedIllustrator.git
