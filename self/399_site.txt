@@ -1,0 +1,14 @@
+
+namecheap-name
+user
+password
+example.com
+
+
+Dropbox
+user@email.com
+password
+
+
+
+

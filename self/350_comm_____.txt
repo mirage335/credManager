@@ -1,0 +1,15 @@
+
+Discord
+user@email.com
+password
+
+
+
+user@email.com
+https://accounts.google.com
+password
+123-456-7890 (mandatory 2fa)
+
+
+
+

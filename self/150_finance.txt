@@ -1,0 +1,39 @@
+
+paypal-name
+user@email.com
+password
+
+
+DebitCard
+fromBANK
+NAME
+1234 1234 1234 1234
+01/30
+123
+
+
+
+RobinHood
+user@email.com
+password
+
+
+BANK
+123456
+password
+PIN 1234
+
+
+
+Samsung Pay
+user@email.com
+password
+
+
+Google Pay
+user@email.com
+password
+
+
+
+

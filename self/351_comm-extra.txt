@@ -1,0 +1,14 @@
+
+Skype
+user
+password
+
+
+Zoom
+fromGoogle
+user@email.com
+password
+
+
+
+

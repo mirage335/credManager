@@ -1,0 +1,34 @@
+
+Residence
+12345 Main Street
+City, AA 12345
+
+
+SocialSecurityNumber
+
+
+Passport
+
+
+DriversLicense
+
+
+COVID Vaccination
+
+
+FCC Amateur Radio
+https://wireless2.fcc.gov
+FRN 123456
+password
+Security Question: Question?
+PSQ Answer: answer
+
+
+VA SCC EFile
+sccefile.scc.virginia.gov
+user@email.com
+password
+
+
+
+

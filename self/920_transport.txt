@@ -1,0 +1,44 @@
+
+Uber
+https://auth.uber.com
+user@email.com
+password
+
+Uber (unexpected)
+https://auth.uber.com
++1 123-456-7890
+password
+
+
+Lyft
+user@email.com (may recover account after changing phone number)
+
+
+
+DC Metro
+
+
+
+Amtrak
+user@email.com
+password
+
+
+SpiritAirlines
+user@email.com
+password
+
+
+SouthwestAirlines
+user
+password
+
+
+AmericanAirlines
+https://www.aa.com
+user
+password
+
+
+
+
